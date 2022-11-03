@@ -1,0 +1,10 @@
+ul li {
+    color: rgba(255, 255, 255, .6);
+    transition: .1s;
+    font-size: 20px;
+}
+
+ul li:hover {
+    color: var(--theme-color);
+    font-size: 20px;
+}

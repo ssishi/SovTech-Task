@@ -1,0 +1,12 @@
+.contact-container {
+    height: auto;
+    width: 30%;
+}
+
+.submit-btn {
+    background: var(--theme-color);
+    color: white;
+    font-weight: 600;
+    width: 90%;
+    margin: 0 auto;
+}
